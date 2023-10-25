@@ -1,0 +1,40 @@
+
+body{
+	background-color : lightGray;
+}
+
+h1,h2{
+	font-family : 'Arapey',serif;
+	font-size : 5;
+	font-weight: bold;
+	
+}
+p{
+	font-family: 'Arapey',serif;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1;
+	word-spacing: 1.5;
+
+}
+.year{
+	position: absolute;
+	top:250px;
+	left:450px;
+	font-size: 50px;
+	color: antiquewhite;
+	
+	
+}
+img{
+	width: 900px;
+	height: 500px;
+}
+.name{
+	position: absolute;
+	color: antiquewhite;
+	top:200px;
+	left: 500px;
+	font-size: 50px
+	;
+}
